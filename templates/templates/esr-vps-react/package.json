@@ -1,0 +1,30 @@
+{
+  "name": "esr-vps-react",
+  "version": "0.0.0",
+  "description": "EdgeFunctions + vite-plugin-ssr + React Templates",
+  "keywords": [
+    "edgeone",
+    "edgefunctions",
+    "templates",
+    "vite",
+    "vite-plugin-ssr",
+    "react"
+  ],
+  "scripts": {
+    "dev:node": "vite",
+    "dev:edge": "tef dev",
+    "build": "vite build && node ./scripts/build.js"
+  },
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "@tencent/tef-cli": "latest",
+    "@vitejs/plugin-react": "^1.3.2",
+    "esbuild": "0.17.19",
+    "vite": "^3.1.0",
+    "vite-plugin-ssr": "0.4.131"
+  },
+  "type": "module"
+}

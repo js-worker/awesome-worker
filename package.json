@@ -1,0 +1,17 @@
+{
+  "name": "js-worker-tutorials",
+  "description": "Monorepo for EdgeFunctions Tutorials",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "templates/*"
+  ],
+  "scripts": {},
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.2.0",
+    "prettier": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=16.16.0"
+  }
+}
