@@ -1,9 +1,9 @@
 # JS Worker 最佳实践合集
 
+在不同的业务场景中，JS Worker 可以完成不同的任务，本仓库是 JS Worker 各种最佳实践合集。
 
 | 模版                 | 技术栈                                                       | 场景      |
 | -------------------- | ------------------------------------------------------------ | --------- |
-| apk-dynamic-pack     | -                                                            | APK 打包  |
 | esr-html             | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)    | 边缘渲染  |
 | esr-html-stream      | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) + [Stream Rendering](https://javascriptpatterns.vercel.app/patterns/rendering-patterns/streaming-ssr) | 边缘渲染  |
 | esr-art-template     | [art-template](https://aui.github.io/art-template/)          | 边缘渲染  |
