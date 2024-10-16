@@ -1,0 +1,10 @@
+{
+  "name": "esr-art-template",
+  "version": "1.0.0",
+  "description": "",
+  "author": "tomtomyang@tencent.com",
+  "scripts": {},
+  "dependencies": {
+    "art-template": "^4.13.2"
+  }
+}

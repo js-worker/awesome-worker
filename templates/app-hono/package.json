@@ -1,0 +1,13 @@
+{
+  "name": "app-hono",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "tef dev",
+    "deploy": "tef publish"
+  },
+  "dependencies": {
+    "hono": "^3.10.2"
+  },
+  "devDependencies": {}
+}

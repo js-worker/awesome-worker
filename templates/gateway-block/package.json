@@ -1,0 +1,14 @@
+{
+  "name": "gateway-block",
+  "version": "1.0.0",
+  "author": "tomtomyang@tencent.com",
+  "scripts": {},
+  "dependencies": {
+    "@tencent/edgefunction-cls-sdk": "^1.0.5",
+    "accept-language-parser": "^1.5.0",
+    "cldr-core": "^43.0.0"
+  },
+  "devDependencies": {
+    "@types/accept-language-parser": "^1.5.3"
+  }
+}
