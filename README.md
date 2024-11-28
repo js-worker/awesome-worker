@@ -1,4 +1,4 @@
-# JS Worker 最佳实践合集
+# Awesome Worker
 
 在不同的业务场景中，JS Worker 可以完成不同的任务，本仓库是 JS Worker 各种最佳实践合集。
 
